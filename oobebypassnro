@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=0; download=133333337; total=10737418240000000; expire=2546249531
 #support-url: https://v2raycpp.web1337.net/
 #profile-web-page-url: https://v2raycpp.web1337.net/
-#announce: base64:0KLQtdGB0YLQvtCy0LDRjyDQv9C+0LTQv9C40YHQutCwIHYycmF5Y3Bw
+#announce: base64:dGVzdCBzdWIgdjJyYXljcHA=
 
 vless://902cdea8-75e9-4f61-80d1-48a0ddd3857a@104.17.74.206:2086?path=%2F%3Fed%3D2056&security=none&encryption=none&host=tech.narkhesanj.ir&type=ws#%E2%9A%A1%20v2ray-configs
 vless://5be93b21-d2f4-45d5-8ea6-8242f6de592b@158.160.223.36:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=28047c78b3f5ee2c#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%E2%80%94%20%23158
